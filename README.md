@@ -1,7 +1,11 @@
 # PasswordGenerator
 Simple password generator built on HTML, CSS and Vite/React.js
 
+Website view: https://inquisitive-bunny-045a54.netlify.app
+
 Instructions:
+create vite project using 'npm create PasswordGenerator'
+replace files from repository into project directory
 execute 'npm run dev'
 navigate to localhost url
 click 'Generate passwords' to generate passwords
