@@ -1,0 +1,74 @@
+.aqua {
+    color: #48DF85
+}
+
+body {
+    background-color: #1E2A37;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+}
+
+.Title {
+    font-weight: 900;
+    font-size: 50px;
+    color: white
+
+}
+
+.sub-Title {
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;
+    color: #A3B3B3
+}
+
+.title--div {
+    text-align: center;
+    padding: 150px 0px 70px 0px;
+}
+
+
+.generatepasswordDiv {
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+    padding: 30px 0px 50px 0px;
+    border-bottom: solid;
+    border-color: #A3B3B3;
+    width: 70%;
+
+}
+
+.passwordButton {
+    border-radius: 27px ;
+    height: 80px;
+    width: 410px;
+    background-color: #48DF85;
+    font-weight: 700;
+    font-size: 32px;
+    color: white;
+    border: none;
+    
+}
+
+.generatedPasswordsDiv {
+    visibility: hidden;
+    margin: auto;
+    width: 70%;
+    padding: 50px 0px;
+    position: relative;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.pass {
+    background-color: #48DF85;
+    border-radius: 20px;
+    display: inline-block;
+    width:120px;
+    padding: 0px 40px
+}
+
